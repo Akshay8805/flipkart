@@ -62,6 +62,7 @@ public class fullcode {
     WebElement logo=driver.findElement(By.xpath("//img[@title='Flipkart']"));
     boolean dispay=logo.isDisplayed();
     System.out.println("logo is Dispalyed" +dispay );
+    System.out.println("updated in local repo");
   
 	
 
